@@ -1,0 +1,15 @@
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\bin\Debug\net7.0\apiEstudiantes.exe
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\bin\Debug\net7.0\apiEstudiantes.deps.json
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\bin\Debug\net7.0\apiEstudiantes.runtimeconfig.json
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\bin\Debug\net7.0\apiEstudiantes.dll
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\bin\Debug\net7.0\apiEstudiantes.pdb
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.csproj.AssemblyReference.cache
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.AssemblyInfoInputs.cache
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.AssemblyInfo.cs
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.csproj.CoreCompileInputs.cache
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.dll
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\refint\apiEstudiantes.dll
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.pdb
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\apiEstudiantes.genruntimeconfig.cache
+D:\Distribuidos\Distribuidos-\Lab2-CreacionAPI´s\apiEstudiantes\obj\Debug\net7.0\ref\apiEstudiantes.dll
